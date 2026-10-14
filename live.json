@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"news": [
+		{"id": "newsdesk", "speaker": "tam", "from": "2026-10-14", "to": "2026-10-23", "text": {
+			"en": "NEW CHANNEL FOUND: STATION NEWS. I WILL READ IT TO YOU. SLOWLY.",
+			"es": "NUEVO CANAL ENCONTRADO: NOTICIAS DE LA ESTACIÓN. TE LAS LEERÉ. DESPACIO.",
+			"de": "NEUER KANAL GEFUNDEN: STATIONSNACHRICHTEN. ICH LESE SIE DIR VOR. LANGSAM.",
+			"fr": "NOUVEAU CANAL TROUVÉ : NOUVELLES DE LA STATION. JE TE LES LIRAI. LENTEMENT.",
+			"pt_BR": "NOVO CANAL ENCONTRADO: NOTÍCIAS DA ESTAÇÃO. VOU LER PARA VOCÊ. DEVAGAR.",
+			"ru": "НАЙДЕН НОВЫЙ КАНАЛ: НОВОСТИ СТАНЦИИ. Я БУДУ ЧИТАТЬ ИХ ТЕБЕ. МЕДЛЕННО."}},
+		{"id": "harvest_vex", "speaker": "vex", "from": "2026-10-24", "to": "2026-11-03", "text": {
+			"en": "Harvest season. Everyone wants cargo pods, and prices only go up when I'm the one buying.",
+			"es": "Temporada de cosecha. Todos quieren cápsulas de carga, y los precios solo suben cuando compro yo.",
+			"de": "Erntezeit. Alle wollen Frachtkapseln, und die Preise steigen nur, wenn ich kaufe.",
+			"fr": "Saison des récoltes. Tout le monde veut des nacelles de fret, et les prix ne montent que quand j'achète.",
+			"pt_BR": "Época de colheita. Todo mundo quer cápsulas de carga, e os preços só sobem quando sou eu comprando.",
+			"ru": "Сезон урожая. Всем нужны грузовые капсулы, а цены растут, только когда покупаю я."}},
+		{"id": "harvest_orla", "speaker": "orla", "after_beat": "lights_on", "from": "2026-10-24", "to": "2026-11-03", "text": {
+			"en": "Harvest dust is drifting past the windows again. Pretty, until it clogs the filters.",
+			"es": "El polvo de la cosecha vuelve a pasar por las ventanas. Bonito, hasta que atasca los filtros.",
+			"de": "Erntestaub treibt wieder an den Fenstern vorbei. Hübsch, bis er die Filter verstopft.",
+			"fr": "La poussière des récoltes repasse devant les hublots. Joli, jusqu'à ce qu'elle bouche les filtres.",
+			"pt_BR": "A poeira da colheita voltou a passar pelas janelas. Bonito, até entupir os filtros.",
+			"ru": "За окнами снова летит пыль урожая. Красиво, пока не забьёт фильтры."}},
+		{"id": "cold_weeks", "speaker": "tam", "from": "2026-11-04", "to": "2026-11-30", "text": {
+			"en": "COLD WEEKS AHEAD. I ORDERED EXTRA BLANKETS. I DO NOT KNOW WHO FOR.",
+			"es": "SE ACERCAN SEMANAS FRÍAS. PEDÍ MANTAS DE MÁS. NO SÉ PARA QUIÉN.",
+			"de": "KALTE WOCHEN STEHEN BEVOR. ICH HABE EXTRA DECKEN BESTELLT. ICH WEISS NICHT, FÜR WEN.",
+			"fr": "DES SEMAINES FROIDES ARRIVENT. J'AI COMMANDÉ DES COUVERTURES EN PLUS. JE NE SAIS PAS POUR QUI.",
+			"pt_BR": "SEMANAS FRIAS PELA FRENTE. PEDI COBERTORES EXTRAS. NÃO SEI PARA QUEM.",
+			"ru": "ВПЕРЕДИ ХОЛОДНЫЕ НЕДЕЛИ. Я ЗАКАЗАЛ ЛИШНИЕ ОДЕЯЛА. НЕ ЗНАЮ, ДЛЯ КОГО."}}
+	],
+	"events": []
+}
